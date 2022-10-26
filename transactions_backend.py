@@ -1,5 +1,3 @@
-from ensurepip import bootstrap
-import imp
 import json
 
 from kafka import KafkaConsumer
