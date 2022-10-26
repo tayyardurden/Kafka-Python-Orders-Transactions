@@ -7,6 +7,8 @@
 		transactions_backend.py
  
  Yeni veri tabanı Db.io yerine PyCharm üzerinden psycopg2 ile oluşturulmuş, Sql'e yüklenmiş ve diagram olarak çıktı alınmıştır. (DB.io sitesini kullanmadım)
+ 	Fresh DB.py ---  Database dosyası
+	New DB Diagram --- Fresh Db.py Diagram
 
 
 
