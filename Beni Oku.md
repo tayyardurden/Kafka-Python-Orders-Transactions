@@ -1,5 +1,11 @@
 Ödev, PyCharm Pro Edition'da hazırlanmıştır (db bağlantıları da aynı programda yapılmıştır). İlgili çıktılar jpg olarak, kaynak kod dosyaları da ilgili uzantılarda (.py vb.)yüklenmiştir.
 
+	Kullanılan dosyalar :
+		modified_or_back.py
+		email.py
+		analytics.py
+		transactions_backend.py
+
 
 
 
