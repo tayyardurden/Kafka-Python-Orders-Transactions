@@ -1,5 +1,4 @@
-from ensurepip import bootstrap
-from kafka import KafkaAdminClient, KafkaConsumer
+from kafka import KafkaConsumer
 import json
 
 ORDER_KAFKA_CONFIRMED_TOPIC="order_confirmed"

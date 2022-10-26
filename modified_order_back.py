@@ -1,4 +1,3 @@
-from ensurepip import bootstrap
 import time
 import json
 from kafka import KafkaProducer
